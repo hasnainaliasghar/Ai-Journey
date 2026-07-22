@@ -21,7 +21,7 @@ A structured index of minor and major projects completed as part of an ongoing A
 
 | # | Project | Description |
 |---|---------|-------------|
-| 1 | [Project Name](https://link-here.com) | Short description of the project |
+
 
 ---
 
